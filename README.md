@@ -2,6 +2,17 @@
 
 > A modern, responsive collapsible sidebar navigation menu UI built with **pure HTML5** and **CSS3**, featuring glassmorphism UI styling, FontAwesome icons, and smooth CSS transitions.
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://partha500.github.io/13-mini-css-project/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+
+---
+
+## 🌐 Live Demo
+
+👉 **Experience the live interactive preview here**: [**https://partha500.github.io/13-mini-css-project/**](https://partha500.github.io/13-mini-css-project/)
+
 ---
 
 ## ✨ Features
